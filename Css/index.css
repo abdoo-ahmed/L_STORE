@@ -384,14 +384,6 @@ html , body{
 
 
 
-
-
-
-
-
-
-
-
 /* 
     53%{
         content: "E فى متجركم ";
@@ -428,7 +420,7 @@ html , body{
        
     }
     .inner_icon h3{
-        font-size: 25px;
+        font-size: 27px;
         
     }
     .main_parag{ 
@@ -456,14 +448,13 @@ html , body{
         color: white;
         margin-top: 35px;
         text-align: center;
-    
-        
     }
+
     .inner_icon i{
-        border: 2px solid ;
-        width:37px;
-        height:37px;
-        padding: 5px;
+        border: 3px solid ;
+        width:40px;
+        height:40px;
+        padding: 4px;
         /* padding: 0px; */
         border-radius: 50%;
         -webkit-border-radius: 50%;
@@ -508,7 +499,11 @@ html , body{
         
     
     }
-
+    .Animatin_section1{
+        overflow: auto;
+        margin-top: 270px;
+        text-align: center;
+    }
     .main_parag{
        
         font-size: 40px;
